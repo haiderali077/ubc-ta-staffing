@@ -1,0 +1,49 @@
+# Environment files (NEVER commit real credentials)
+.env
+.env.docker
+.env.local
+.env.*.local
+
+# Node modules
+node_modules/
+*/node_modules/
+
+# Test coverage
+coverage/
+*/coverage/
+app/src/frontend/coverage/
+
+# Build output
+dist/
+build/
+*/dist/
+*/build/
+
+# IDE files
+# .vscode/
+.idea/
+*.swp
+*.swo
+.vscode/
+
+# OS filesS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.txt
+uploads/
+/uploads
+
+# Database backups
+backups/ 
+/backups
+
+# ignore all .txt files in the project
+**/*.txt
+
+# cookies
+cookies.txt
+cookies_after_logout.txt
+fresh_cookies.txt
+refreshed_cookies.txt

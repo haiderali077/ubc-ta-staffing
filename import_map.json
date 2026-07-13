@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "deps": "./app/deps.ts",
+    "interfaces": "./app/interfaces.ts"
+  }
+}

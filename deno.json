@@ -1,0 +1,19 @@
+{
+  "importMap": "import_map.json",
+  "tasks": {
+    "start": "deno run --allow-net --allow-read --allow-env --allow-write --watch app/server.ts",
+    "dev": "deno run --allow-net --allow-read --allow-env --allow-write --watch app/server.ts",
+    "prod": "deno run --allow-net --allow-read --allow-env --allow-write app/server.ts",
+    "cache": "deno cache app/deps.ts",
+    "check": "deno check app/server.ts",
+    "lint": "deno lint app/src/",
+    "fmt": "deno fmt app/src/",
+    "test": "docker-compose up test-database -d && sleep 5 && docker-compose exec -T test-database pg_isready -U test_user -d test_db && DENO_ENV=test DB_HOST=localhost DB_PORT=5432 DB_NAME=test_db DB_USER=test_user DB_PASSWORD=test_password deno test --allow-all --no-check",
+    "test:watch": "DENO_ENV=test DB_HOST=localhost DB_PORT=5432 DB_NAME=test_db DB_USER=test_user DB_PASSWORD=test_password deno test --watch --allow-all --no-check"
+  },
+  "exclude": ["app/src/frontend/"], 
+  "compilerOptions": {
+    "strict": true,
+    "lib": ["deno.ns", "es2022", "deno.window"]
+  }
+}

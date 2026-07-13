@@ -1,0 +1,101 @@
+Term,Subject,Course,Sec No,Activity,Creds,Size,Primary,Primary Activity Repeats,On campus or Online,Days,Start Time,Week patterns,Secondary Activity,Faculty,Instructor,Location
+2025W,BIOL,495,144,Lecture,3,141,1,3,Online Learning,Mon Wed Fri,1:00 p.m.,2025-05-13 - 2025-06-27,Lab,,Scott Fazackerley,BIO-Annex 1
+2026S,PSYO,166,266,Discussion,4,73,3,3,On campus,Fri,3:30 p.m.,2025-05-13 - 2025-06-27,Discussion,,John O'Connor,BIO-Annex 1
+2025W,ENGL,407,351,Discussion,4,181,1,2,Online Learning,Mon Wed,9:00 a.m.,2025-05-13 - 2025-06-27,,,Emily Smith,BIO-Annex 1
+2026W1,STAT,169,161,Lecture,4,48,1.25,1,On campus,Wed,12:30 p.m.,2025-07-03 - 2025-08-17,,,Scott Fazackerley,LIB-Floor 3-Room 312
+2025S,PHYS,230,274,Lecture,4,182,2,3,On campus,Fri,11:00 a.m.,2025-09-04 - 2025-10-19,,,David Patel,ENG-301
+2026W1,BIOL,274,372,Laboratory,4,172,1,3,On campus,Tue,9:00 a.m.,2025-05-13 - 2025-06-27,,,Paul Davies,LIB-Floor 3-Room 312
+2026W1,PSYO,307,168,Discussion,4,191,1.25,3,On campus,Wed,8:00 a.m.,2025-05-13 - 2025-06-27,Lab,,Linda Wong,ENG-301
+2025W,ECON,100,166,Laboratory,4,99,1,1,Online Learning,Fri,11:00 a.m.,2025-07-03 - 2025-08-17,Lab,,Emily Smith,BIO-Annex 1
+2026S,COSC,109,209,Lecture,3,45,1.25,3,Online Learning,Thu,8:00 a.m.,2025-07-03 - 2025-08-17,Discussion,,John O'Connor,CHEM-Lab 5
+2025S,ENGL,239,383,Discussion,3,39,3,3,On campus,Wed,12:30 p.m.,2025-07-03 - 2025-08-17,Tutorial,,Scott Fazackerley,BUS-120
+2025W,COSC,453,210,Discussion,4,73,1,1,On campus,Mon,10:00 a.m.,2025-05-13 - 2025-06-27,Tutorial,,Sarah Lee,ART-101
+2026W1,MATH,344,247,Lecture,4,153,2,2,Online Learning,Thu,12:30 p.m.,2025-09-04 - 2025-10-19,Tutorial,,Paul Davies,SCI-210
+2025S,ECON,259,284,Laboratory,4,97,3,3,Online Learning,Tue,8:00 a.m.,2025-05-13 - 2025-06-27,Discussion,,Paul Davies,SCI-210
+2025S,STAT,313,259,Laboratory,3,104,1.25,2,On campus,Tue Thu,2:00 p.m.,2025-07-03 - 2025-08-17,,,David Patel,SCI-210
+2026S,COSC,496,184,Seminar,4,129,2,1,Online Learning,Fri,2:00 p.m.,2025-09-04 - 2025-10-19,,,Scott Fazackerley,LIB-Floor 3-Room 312
+2025W,ENGL,286,250,Laboratory,4,140,1.25,3,On campus,Thu,12:30 p.m.,2025-09-04 - 2025-10-19,,,Linda Wong,SCI-210
+2026W1,COSC,232,218,Discussion,3,30,1.25,3,On campus,Tue Thu,1:00 p.m.,2025-09-04 - 2025-10-19,,,Scott Fazackerley,ENG-301
+2026S,STAT,375,355,Discussion,3,159,1,1,On campus,Tue,11:00 a.m.,2025-09-04 - 2025-10-19,Discussion,,Emily Smith,LIB-Floor 3-Room 312
+2026S,STAT,317,229,Laboratory,3,87,1.5,3,Online Learning,Mon Wed Fri,2:00 p.m.,2025-09-04 - 2025-10-19,Tutorial,,Emily Smith,ART-101
+2026W1,MATH,302,130,Discussion,3,110,3,1,Online Learning,Wed,3:30 p.m.,2025-05-13 - 2025-06-27,Lab,,Paul Davies,BUS-120
+2026W1,ECON,480,148,Discussion,4,162,3,2,Online Learning,Mon Wed,9:00 a.m.,2025-07-03 - 2025-08-17,,,Paul Davies,BUS-120
+2026W1,PSYO,306,123,Seminar,4,23,1,2,On campus,Mon,8:00 a.m.,2025-07-03 - 2025-08-17,,,Paul Davies,CHEM-Lab 5
+2025W,ENGL,244,202,Lecture,3,153,1,3,Online Learning,Fri,1:00 p.m.,2025-07-03 - 2025-08-17,Tutorial,,Scott Fazackerley,ART-101
+2026S,PHYS,391,347,Discussion,3,48,1.5,1,Online Learning,Tue Thu,1:00 p.m.,2025-07-03 - 2025-08-17,Lab,,Linda Wong,LIB-Floor 3-Room 312
+2025W,BIOL,425,307,Laboratory,3,69,1,1,Online Learning,Tue Thu,9:00 a.m.,2025-09-04 - 2025-10-19,Lab,,Michael Chen,LIB-Floor 3-Room 312
+2025W,PSYO,174,128,Discussion,3,49,1.25,3,Online Learning,Tue,12:30 p.m.,2025-05-13 - 2025-06-27,,,Scott Fazackerley,ART-101
+2026W1,PHYS,377,142,Lecture,3,77,1.5,2,On campus,Wed,9:00 a.m.,2025-09-04 - 2025-10-19,,,Linda Wong,ENG-301
+2025S,ECON,279,195,Laboratory,3,87,2,3,Online Learning,Thu,10:00 a.m.,2025-09-04 - 2025-10-19,Lab,,Sarah Lee,ENG-301
+2025W,ECON,403,173,Lecture,4,180,1.25,3,Online Learning,Thu,1:00 p.m.,2025-07-03 - 2025-08-17,,,Scott Fazackerley,BIO-Annex 1
+2025S,BIOL,344,101,Lecture,3,126,3,3,Online Learning,Tue Thu,9:00 a.m.,2025-09-04 - 2025-10-19,Discussion,,Paul Davies,MATH-Centre 204
+2026W1,MATH,424,101,Lecture,3,36,1.25,2,Online Learning,Tue Thu,10:00 a.m.,2025-09-04 - 2025-10-19,,,Paul Davies,ART-101
+2026S,STAT,364,389,Lecture,4,66,1,2,Online Learning,Mon Wed,3:30 p.m.,2025-07-03 - 2025-08-17,Tutorial,,Sarah Lee,LIB-Floor 3-Room 312
+2025W,PSYO,195,154,Seminar,4,182,1.5,2,On campus,Wed,2:00 p.m.,2025-07-03 - 2025-08-17,Discussion,,Linda Wong,LIB-Floor 3-Room 312
+2025W,PSYO,101,380,Discussion,4,84,2,3,Online Learning,Thu,9:00 a.m.,2025-07-03 - 2025-08-17,,,Scott Fazackerley,BIO-Annex 1
+2026S,ENGL,334,232,Discussion,4,25,3,3,On campus,Fri,2:00 p.m.,2025-09-04 - 2025-10-19,,,David Patel,ENG-301
+2025W,PSYO,283,277,Discussion,4,181,1,1,On campus,Wed,10:00 a.m.,2025-05-13 - 2025-06-27,Discussion,,Paul Davies,LIB-Floor 3-Room 312
+2026W1,MATH,371,363,Discussion,4,145,1,3,On campus,Tue,8:00 a.m.,2025-05-13 - 2025-06-27,Lab,,David Patel,BUS-120
+2025W,PSYO,182,222,Lecture,3,135,3,3,On campus,Tue,12:30 p.m.,2025-09-04 - 2025-10-19,,,Paul Davies,BUS-120
+2026S,ECON,397,191,Laboratory,4,119,2,1,Online Learning,Wed,9:00 a.m.,2025-09-04 - 2025-10-19,Lab,,Scott Fazackerley,SCI-210
+2026W1,ECON,331,388,Seminar,4,98,3,3,Online Learning,Wed,2:00 p.m.,2025-07-03 - 2025-08-17,Lab,,Scott Fazackerley,CHEM-Lab 5
+2025W,MATH,273,237,Discussion,4,37,1.25,2,Online Learning,Mon Wed,1:00 p.m.,2025-07-03 - 2025-08-17,,,Linda Wong,BUS-120
+2026S,ENGL,303,393,Lecture,4,101,1.25,2,Online Learning,Tue,1:00 p.m.,2025-09-04 - 2025-10-19,Discussion,,Paul Davies,LIB-Floor 3-Room 312
+2026S,STAT,134,211,Laboratory,3,41,2,3,Online Learning,Fri,3:30 p.m.,2025-09-04 - 2025-10-19,Discussion,,Sarah Lee,BIO-Annex 1
+2025S,PSYO,121,245,Seminar,3,65,1.25,3,Online Learning,Mon,11:00 a.m.,2025-07-03 - 2025-08-17,Discussion,,David Patel,SCI-210
+2026W1,STAT,465,45,Seminar,4,79,2,2,On campus,Mon Wed,8:00 a.m.,2025-09-04 - 2025-10-19,Discussion,,Linda Wong,LIB-Floor 3-Room 312
+2026W1,STAT,222,351,Discussion,4,112,2,1,On campus,Mon Wed Fri,1:00 p.m.,2025-09-04 - 2025-10-19,Tutorial,,Emily Smith,BIO-Annex 1
+2026S,BIOL,344,328,Laboratory,4,119,1,1,Online Learning,Wed,1:00 p.m.,2025-07-03 - 2025-08-17,,,Sarah Lee,BIO-Annex 1
+2025W,MATH,363,254,Seminar,4,155,2,1,On campus,Mon Wed Fri,12:30 p.m.,2025-05-13 - 2025-06-27,Tutorial,,Sarah Lee,BIO-Annex 1
+2026S,COSC,485,378,Laboratory,3,34,1.5,3,On campus,Wed,12:30 p.m.,2025-07-03 - 2025-08-17,,,Emily Smith,SCI-210
+2025S,STAT,495,191,Lecture,3,157,1,2,Online Learning,Wed,3:30 p.m.,2025-05-13 - 2025-06-27,,,Michael Chen,BIO-Annex 1
+2026W1,ECON,182,236,Seminar,3,161,2,2,On campus,Tue Thu,2:00 p.m.,2025-05-13 - 2025-06-27,Discussion,,Paul Davies,BIO-Annex 1
+2026W1,COSC,232,12,Laboratory,3,105,1.5,2,Online Learning,Tue,3:30 p.m.,2025-05-13 - 2025-06-27,,,Paul Davies,BIO-Annex 1
+2026W1,ENGL,259,289,Seminar,4,68,1.25,2,On campus,Wed,2:00 p.m.,2025-05-13 - 2025-06-27,,,Paul Davies,MATH-Centre 204
+2025S,MATH,338,319,Laboratory,3,69,3,3,Online Learning,Mon,8:00 a.m.,2025-05-13 - 2025-06-27,Tutorial,,Paul Davies,CHEM-Lab 5
+2026W1,MATH,421,254,Seminar,4,158,3,3,Online Learning,Mon Wed Fri,11:00 a.m.,2025-05-13 - 2025-06-27,Lab,,Michael Chen,SCI-210
+2026S,STAT,474,250,Lecture,3,77,1.25,3,On campus,Mon Wed Fri,1:00 p.m.,2025-09-04 - 2025-10-19,Lab,,Scott Fazackerley,CHEM-Lab 5
+2025W,PHYS,269,284,Discussion,3,99,3,1,On campus,Mon Wed Fri,9:00 a.m.,2025-07-03 - 2025-08-17,,,Emily Smith,BUS-120
+2025S,PHYS,109,309,Seminar,4,176,2,3,On campus,Mon Wed,11:00 a.m.,2025-09-04 - 2025-10-19,Tutorial,,Linda Wong,LIB-Floor 3-Room 312
+2026S,MATH,405,219,Discussion,4,21,1.25,1,Online Learning,Tue,12:30 p.m.,2025-05-13 - 2025-06-27,Lab,,Scott Fazackerley,ENG-301
+2026S,ECON,321,274,Lecture,3,155,1,2,On campus,Thu,12:30 p.m.,2025-09-04 - 2025-10-19,Discussion,,Emily Smith,MATH-Centre 204
+2025S,ENGL,436,92,Laboratory,4,159,1.25,2,On campus,Mon Wed,1:00 p.m.,2025-07-03 - 2025-08-17,Lab,,Emily Smith,BIO-Annex 1
+2026W1,MATH,472,60,Lecture,3,157,2,1,Online Learning,Tue Thu,3:30 p.m.,2025-07-03 - 2025-08-17,,,Scott Fazackerley,MATH-Centre 204
+2026S,COSC,331,326,Seminar,3,30,3,2,On campus,Tue Thu,8:00 a.m.,2025-05-13 - 2025-06-27,,,Linda Wong,MATH-Centre 204
+2025S,ECON,288,247,Laboratory,3,187,3,1,On campus,Tue Thu,8:00 a.m.,2025-07-03 - 2025-08-17,Discussion,,John O'Connor,ENG-301
+2026S,ENGL,346,363,Discussion,4,189,1.5,2,Online Learning,Mon Wed,2:00 p.m.,2025-05-13 - 2025-06-27,Lab,,Michael Chen,ART-101
+2025S,PHYS,484,218,Discussion,4,171,1,3,On campus,Tue Thu,9:00 a.m.,2025-05-13 - 2025-06-27,,,John O'Connor,CHEM-Lab 5
+2025S,COSC,226,146,Seminar,4,154,1.25,3,Online Learning,Mon Wed,10:00 a.m.,2025-09-04 - 2025-10-19,Discussion,,Paul Davies,CHEM-Lab 5
+2026S,MATH,197,9,Seminar,4,20,2,3,Online Learning,Tue,12:30 p.m.,2025-05-13 - 2025-06-27,,,Emily Smith,ART-101
+2026W1,ECON,357,217,Lecture,3,174,1.5,2,On campus,Mon Wed Fri,1:00 p.m.,2025-07-03 - 2025-08-17,,,Paul Davies,MATH-Centre 204
+2026W1,STAT,100,281,Discussion,3,36,2,2,Online Learning,Wed,2:00 p.m.,2025-07-03 - 2025-08-17,Lab,,Scott Fazackerley,BIO-Annex 1
+2026W1,ENGL,428,376,Lecture,4,143,2,2,On campus,Fri,2:00 p.m.,2025-07-03 - 2025-08-17,Tutorial,,John O'Connor,ENG-301
+2026S,BIOL,266,131,Seminar,3,186,2,3,On campus,Thu,11:00 a.m.,2025-05-13 - 2025-06-27,,,Paul Davies,MATH-Centre 204
+2026W1,MATH,256,144,Seminar,4,42,2,2,Online Learning,Fri,12:30 p.m.,2025-05-13 - 2025-06-27,Tutorial,,Michael Chen,BIO-Annex 1
+2026W1,BIOL,238,378,Lecture,3,97,1.5,1,On campus,Mon Wed,2:00 p.m.,2025-05-13 - 2025-06-27,,,Sarah Lee,ENG-301
+2026W1,PSYO,302,285,Lecture,4,124,2,1,Online Learning,Mon Wed,10:00 a.m.,2025-09-04 - 2025-10-19,Tutorial,,David Patel,BUS-120
+2026S,BIOL,329,98,Discussion,3,81,3,1,On campus,Fri,8:00 a.m.,2025-07-03 - 2025-08-17,Discussion,,Sarah Lee,ENG-301
+2026W1,COSC,384,378,Seminar,4,26,1.5,1,Online Learning,Tue Thu,1:00 p.m.,2025-09-04 - 2025-10-19,Tutorial,,Sarah Lee,BUS-120
+2026S,BIOL,271,216,Discussion,3,137,3,2,Online Learning,Tue,2:00 p.m.,2025-05-13 - 2025-06-27,Lab,,Michael Chen,LIB-Floor 3-Room 312
+2025S,BIOL,384,397,Seminar,3,58,1,2,Online Learning,Mon Wed Fri,9:00 a.m.,2025-05-13 - 2025-06-27,Discussion,,Paul Davies,LIB-Floor 3-Room 312
+2026W1,ENGL,323,392,Laboratory,4,114,3,1,Online Learning,Mon Wed Fri,1:00 p.m.,2025-05-13 - 2025-06-27,Discussion,,Linda Wong,ART-101
+2026W1,STAT,102,177,Seminar,4,90,1,1,Online Learning,Thu,9:00 a.m.,2025-09-04 - 2025-10-19,Tutorial,,Sarah Lee,BUS-120
+2025W,ECON,279,52,Seminar,4,154,1,2,On campus,Mon Wed,3:30 p.m.,2025-09-04 - 2025-10-19,Tutorial,,David Patel,LIB-Floor 3-Room 312
+2025W,COSC,219,29,Lecture,3,182,2,2,Online Learning,Tue Thu,3:30 p.m.,2025-07-03 - 2025-08-17,Lab,,John O'Connor,BIO-Annex 1
+2026W1,MATH,465,329,Laboratory,4,104,2,2,On campus,Mon Wed Fri,8:00 a.m.,2025-07-03 - 2025-08-17,Discussion,,Paul Davies,ENG-301
+2026W1,STAT,108,260,Laboratory,3,157,1.5,2,Online Learning,Tue Thu,8:00 a.m.,2025-09-04 - 2025-10-19,Lab,,David Patel,MATH-Centre 204
+2025S,ENGL,106,156,Laboratory,4,124,1,3,On campus,Mon,2:00 p.m.,2025-07-03 - 2025-08-17,Lab,,Sarah Lee,BIO-Annex 1
+2026W1,PSYO,435,363,Lecture,4,81,1.25,2,On campus,Thu,9:00 a.m.,2025-07-03 - 2025-08-17,,,Emily Smith,ART-101
+2025W,PHYS,115,270,Laboratory,3,98,1.25,1,Online Learning,Tue Thu,11:00 a.m.,2025-05-13 - 2025-06-27,,,Emily Smith,CHEM-Lab 5
+2025S,BIOL,363,390,Lecture,4,51,2,3,On campus,Mon Wed,1:00 p.m.,2025-09-04 - 2025-10-19,Lab,,John O'Connor,MATH-Centre 204
+2026W1,PHYS,245,198,Laboratory,4,173,1.5,3,On campus,Tue Thu,11:00 a.m.,2025-07-03 - 2025-08-17,Tutorial,,David Patel,ENG-301
+2025W,PSYO,103,275,Laboratory,3,187,1.5,2,On campus,Thu,1:00 p.m.,2025-05-13 - 2025-06-27,Discussion,,Linda Wong,MATH-Centre 204
+2026S,MATH,359,262,Lecture,4,165,3,1,Online Learning,Thu,11:00 a.m.,2025-07-03 - 2025-08-17,,,John O'Connor,SCI-210
+2026W1,ENGL,138,113,Seminar,4,109,1.25,1,On campus,Tue,3:30 p.m.,2025-05-13 - 2025-06-27,Tutorial,,David Patel,ART-101
+2025W,PSYO,428,61,Discussion,4,183,1.25,2,On campus,Mon Wed Fri,10:00 a.m.,2025-05-13 - 2025-06-27,Tutorial,,John O'Connor,ART-101
+2026S,MATH,343,345,Lecture,3,75,2,2,On campus,Wed,12:30 p.m.,2025-05-13 - 2025-06-27,Discussion,,John O'Connor,MATH-Centre 204
+2025S,STAT,112,59,Seminar,4,41,1.5,1,On campus,Mon,2:00 p.m.,2025-05-13 - 2025-06-27,,,David Patel,MATH-Centre 204
+2025S,PSYO,113,231,Lecture,4,31,2,2,On campus,Mon Wed,3:30 p.m.,2025-05-13 - 2025-06-27,,,Scott Fazackerley,CHEM-Lab 5
+2025W,PHYS,162,383,Discussion,4,36,3,1,Online Learning,Tue Thu,10:00 a.m.,2025-09-04 - 2025-10-19,Discussion,,Scott Fazackerley,CHEM-Lab 5
+2025W,BIOL,228,31,Laboratory,3,61,1.25,1,On campus,Mon,11:00 a.m.,2025-07-03 - 2025-08-17,Tutorial,,Linda Wong,MATH-Centre 204
+2025W,BIOL,343,393,Discussion,4,146,2,2,Online Learning,Mon Wed,3:30 p.m.,2025-09-04 - 2025-10-19,Tutorial,,Linda Wong,ART-101

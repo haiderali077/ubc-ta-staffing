@@ -1,0 +1,17 @@
+services:
+  app:
+    volumes:
+      - ./app:/app:ro
+    environment:
+      ENVIRONMENT: development
+    command:
+      [
+        "deno",
+        "run",
+        "--allow-net",
+        "--allow-read",
+        "--allow-write",
+        "--allow-env",
+        "--watch",
+        "server.ts",
+      ]

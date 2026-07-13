@@ -1,0 +1,89 @@
+# Git
+.git
+.gitignore
+*.md
+README.md
+
+# Documentation
+docs/
+help/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+# env
+# env.local
+# env.development
+# env.test
+# env.production
+# *.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build artifacts
+dist/
+build/
+*.tsbuildinfo
+
+# Test files
+test/
+*.test.ts
+*.test.js
+coverage/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Cache
+.cache/
+.npm/
+.yarn/
+
+# Frontend specific
+app/src/frontend/node_modules/
+app/src/frontend/dist/
+app/src/frontend/.vite/
+
+# Deno cache
+.deno/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Cookies and session files
+cookies*.txt
+*.session
+
+# Development only files
+docker-compose.override.yml
+docker-compose.dev.yml
